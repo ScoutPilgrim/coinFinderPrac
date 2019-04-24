@@ -19,10 +19,11 @@ Included Specifications:
   2. Dimes - 10 cents
   3. Nickels - 5 cents
   4. Pennies - 1 cent
-* When the change pool can no longer take out a Coin amount, It starts trying to take out the next smallest coin amount.
+* When the change pool can no longer take out a Coin amount, It starts trying to take out the next largest coin amount.
   * For example, let us say the user input a total of 35 cents. At first, the program would take out a quarter (or 25 cents), and the remaining pool would become 10. The program cannot take out another quarter, as it would lead to negative change, so it moves down the priority to Dimes (10 cents). The program CAN take out a dime, so the pool becomes zero.
   * When the remaining pool becomes zero, it means the program has calculated exact change.
 * Once the change is properly calculated, the different amounts of coins that would be given back to the user are displayed.
+
 #### The MIT License
 
 #### Copyright (c) 2019 Ian Christner
