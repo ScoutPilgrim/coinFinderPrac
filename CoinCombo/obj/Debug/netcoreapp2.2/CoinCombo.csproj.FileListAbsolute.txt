@@ -1,0 +1,9 @@
+/Users/Guest/CoinCombo.Solution/CoinCombo/bin/Debug/netcoreapp2.2/CoinCombo.deps.json
+/Users/Guest/CoinCombo.Solution/CoinCombo/bin/Debug/netcoreapp2.2/CoinCombo.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo/bin/Debug/netcoreapp2.2/CoinCombo.pdb
+/Users/Guest/CoinCombo.Solution/CoinCombo/obj/Debug/netcoreapp2.2/CoinCombo.csprojAssemblyReference.cache
+/Users/Guest/CoinCombo.Solution/CoinCombo/obj/Debug/netcoreapp2.2/CoinCombo.csproj.CoreCompileInputs.cache
+/Users/Guest/CoinCombo.Solution/CoinCombo/obj/Debug/netcoreapp2.2/CoinCombo.AssemblyInfoInputs.cache
+/Users/Guest/CoinCombo.Solution/CoinCombo/obj/Debug/netcoreapp2.2/CoinCombo.AssemblyInfo.cs
+/Users/Guest/CoinCombo.Solution/CoinCombo/obj/Debug/netcoreapp2.2/CoinCombo.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo/obj/Debug/netcoreapp2.2/CoinCombo.pdb

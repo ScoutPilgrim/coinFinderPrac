@@ -1,0 +1,17 @@
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.csprojAssemblyReference.cache
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.AssemblyInfoInputs.cache
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.AssemblyInfo.cs
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.Tests.deps.json
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.Tests.runtimeconfig.json
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.Tests.runtimeconfig.dev.json
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.Tests.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.Tests.pdb
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/bin/Debug/netcoreapp2.2/CoinCombo.pdb
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.csproj.CopyComplete
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.dll
+/Users/Guest/CoinCombo.Solution/CoinCombo.Tests/obj/Debug/netcoreapp2.2/CoinCombo.Tests.pdb
